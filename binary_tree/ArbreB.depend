@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643868579 source:c:\users\ie\desktop\arbreb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArbreB.h"
+
+1643868970 c:\users\ie\desktop\arbreb\arbreb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

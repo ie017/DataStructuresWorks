@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643392425 source:c:\users\ie\desktop\graphe\graphe\main.c
+	<stdbool.h>
+	<stdio.h>
+	"Graphe.h"
+
+1643381946 c:\users\ie\desktop\graphe\graphe\graphe.h
+	<stdbool.h>
+

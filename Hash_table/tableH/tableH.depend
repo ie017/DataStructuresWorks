@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1644365197 source:c:\users\ie\desktop\hachage\tableh\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tableH.h"
+	<stdbool.h>
+
+1644364688 c:\users\ie\desktop\hachage\tableh\tableh.h
+	<stdbool.h>
+
